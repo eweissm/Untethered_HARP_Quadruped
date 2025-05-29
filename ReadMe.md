@@ -1,5 +1,8 @@
 # Open-Sourced HARP-Driven Untethered Quadruped
 
+**Author:** Eric Weissman  
+**Last Updated:** May 2025
+
 This repository contains all design files, simulation tools, and documentation needed to build and test an untethered quadruped robot actuated by HARP-driven pneumatic legs.
 
 ---
